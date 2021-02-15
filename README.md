@@ -18,7 +18,8 @@ Download the precomplied library from the bin folder. See the example for more h
 
 Performance
 -----------
-Performance for this project has absolute been in focus. All of the operations has been tuned down to maximum performance C# can provide.
+~~Performance for this project has absolute been in focus. All of the operations has been tuned down to maximum performance C# can provide.~~
+Perfromance can be improved. WIP.
 
 Running test
 ------------
